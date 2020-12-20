@@ -20,8 +20,7 @@ Use this information at your own discretion and risk.
 
 ![Key-Matrix](./img/k4-wiring.png)
 
-![MCU-Diagram]
-Keyboard matrix diagram on the MCU
+## MCU-Diagram - Keyboard matrix diagram on the MCU
 
 | --- | col | C0 | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 |
 | --- | --- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -33,7 +32,7 @@ Keyboard matrix diagram on the MCU
 | R4  | 60  |    |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |     |     |
 | R5  | 59  |    |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |     |     |
 
-![MCU-Pins](./MCU_SN32F248BF.png)
+![MCU-Pins](./img/MCU_SN32F248BF.png)
 
 ![k4-bluetooth-CYW20730.png](./img/K4-bt-CYW20730.png)
 
