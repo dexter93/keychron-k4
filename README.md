@@ -41,6 +41,7 @@ needs figuring out
 ## MCU-Diagram - mac/win and bt/off/cable dip switches
 needs figuring out
 
+## MCU Pinout - SN32F248BF
 ![MCU-Pins](./img/MCU_SN32F248BF.png)
 
 ## Bluetooth module
