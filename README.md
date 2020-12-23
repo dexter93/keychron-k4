@@ -35,8 +35,15 @@ Use this information at your own discretion and risk.
 | R4  | 60  |    |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |     |     |
 | R5  | 59  |    |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |     |     |
 
+## MCU-Diagram - LED matrix
+needs figuring out
+
+## MCU-Diagram - mac/win and bt/off/cable dip switches
+needs figuring out
+
 ![MCU-Pins](./img/MCU_SN32F248BF.png)
 
+## Bluetooth module
 ![k4-bluetooth-CYW20730.png](./img/K4-bt-CYW20730.png)
 
 seems to be wired like the Blitzwolf BW-KB1(https://github.com/IslamAlam/blitzwolf-bw-kb-1)
