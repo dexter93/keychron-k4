@@ -3,6 +3,14 @@
 This is partial and may or may not be completed.
 Use this information at your own discretion and risk.
 
+## TODO List - QMK support
+- [x] Ability to safely flash bootloader
+- [x] Ability to revert to factory firmware
+- [x] Confirm Chibios functionality
+- [ ] Get QMK Working
+- [x] Get LEDs working
+- [ ] Confirm bluetooth functionality
+
 ## Chips
 * Main MCU - HFD2201KBA - appears to be based on/clone of [SONIX SN32F24xB](http://www.sonix.com.tw/article-tw-4315-30347)
 
