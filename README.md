@@ -7,7 +7,7 @@ Use this information at your own discretion and risk.
 - [x] Ability to safely flash bootloader
 - [x] Ability to revert to factory firmware
 - [x] Confirm Chibios functionality
-- [ ] Get QMK Working
+- [x] Get QMK Working
 - [x] Get LEDs working
 - [ ] Confirm bluetooth functionality
 
