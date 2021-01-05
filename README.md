@@ -57,7 +57,10 @@ Use this information at your own discretion and risk.
 
 
 ## MCU-Diagram - mac/win and bt/off/cable dip switches
-needs figuring out
+
+- Bluetooth / O / Cable Mode: pin 57
+- Win - Android / Mac - iOS Mode: pin 58
+
 
 ## MCU Pinout - SN32F248BF
 ![MCU-Pins](./img/MCU_SN32F248BF.png)
