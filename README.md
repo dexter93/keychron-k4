@@ -3,6 +3,8 @@
 This is partial and may or may not be completed.
 Use this information at your own discretion and risk.
 
+This is for K4 RGB v1.
+
 ## TODO List - QMK support
 - [x] Ability to safely flash bootloader
 - [x] Ability to revert to factory firmware
