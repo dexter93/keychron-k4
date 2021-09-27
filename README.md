@@ -3,7 +3,7 @@
 This is partial and may or may not be completed.
 Use this information at your own discretion and risk.
 
-This is for K4 RGB v1.
+This is for K4 RGB v1 and v2 ANSI.
 
 ## TODO List - QMK support
 - [x] Ability to safely flash bootloader
@@ -63,6 +63,9 @@ This is for K4 RGB v1.
 - Bluetooth / O / Cable Mode: pin 57
 - Win - Android / Mac - iOS Mode: pin 58
 
+## MCU-Diagram - Status LED indicators - K4 v2 only
+- Caps Lock: pin 46
+- Num Lock: pin 51
 
 ## MCU Pinout - SN32F248BF
 ![MCU-Pins](./img/MCU_SN32F248BF.png)
